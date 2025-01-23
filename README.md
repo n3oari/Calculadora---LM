@@ -1,5 +1,5 @@
-# Calculadora interactiva hecha con Javascript.
+# Calculadora interactiva hecha con **Javascript**.
 
-
-## Uso de Git y Github
-## Desplegada en Vercel
+- Trabajo  para grado superior 1º Desarrollo de Aplicaciones Multiplataforma asignatura Lenguaje de marcas
+- Uso de **Git** y **Github**
+- Desplegada en **Vercel**
