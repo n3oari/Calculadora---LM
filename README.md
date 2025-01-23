@@ -1,5 +1,5 @@
 # Calculadora interactiva hecha con **Javascript**.
 
-- Trabajo  para grado superior 1º Desarrollo de Aplicaciones Multiplataforma asignatura Lenguaje de marcas
+- Trabajo  para 1º año de  grado superior desarrollo de aplicaciones multiplataforma -> asignatura lenguaje de marcas
 - Uso de **Git** y **Github**
 - Desplegada en **Vercel**
