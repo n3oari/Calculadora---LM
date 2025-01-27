@@ -1,10 +1,10 @@
 div {
-  height: 500px;
+  height: 400px;
   width: 250px;
   background-color: rgb(0, 0, 0);
   border: 3px solid greenyellow;
   padding: 10px;
-  margin: 10px;
+  margin: 1px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -13,11 +13,12 @@ div {
 }
 
 button {
-  height: 25px;
-  width: 90px;
+  height: 30px;
+  width: 120px;
   margin: 0px;
-  border: solid 2px greenyellow;
-  background-color: yellow;
+  border: solid 3px greenyellow;
+  background-color: black;
+  color: white;
 }
 
 input {
@@ -30,8 +31,20 @@ input {
 
 .numB {
   width: 65px;
+  height: 20px;
   margin: 5px;
   background-color: rgb(76, 113, 19);
   padding: 5px;
   border: 2px solid greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#boton9 {
+  width: 65px;
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
