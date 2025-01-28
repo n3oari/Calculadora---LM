@@ -1,41 +1,55 @@
+body {
+  background-image: url(img_background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 div {
-  height: 400px;
+  height: 450px;
   width: 250px;
   background-color: rgb(0, 0, 0);
-  border: 3px solid greenyellow;
+  border: 5px solid rgb(57, 255, 57);
+  border-radius: 30px;
   padding: 10px;
   margin: 1px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
-  align-items: flex-start;
+  align-items: center;
 }
 
 button {
   height: 30px;
   width: 120px;
   margin: 0px;
-  border: solid 3px greenyellow;
-  background-color: black;
-  color: white;
+  border: solid 2px white;
+  border-radius: 10px;
+  background-color: rgb(57, 255, 57);
+  color: black;
 }
 
 input {
   width: 100%;
   margin: 5px;
-  background-color: rgb(76, 113, 19);
+  background-color: rgb(57, 255, 57);
+  color: black;
   padding: 5px;
-  border: 2px solid greenyellow;
+  border: 2px solid white;
 }
 
 .numB {
   width: 65px;
   height: 20px;
   margin: 5px;
-  background-color: rgb(76, 113, 19);
+  background-color: rgb(57, 255, 57);
+  color: black;
   padding: 5px;
-  border: 2px solid greenyellow;
+  border: 2px solid white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,4 +61,10 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+h3 {
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+  display: flex;
 }
